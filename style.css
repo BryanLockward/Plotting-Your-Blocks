@@ -1,0 +1,43 @@
+
+#wrapper{
+
+ background-color: silver;
+ padding:15px;
+
+}
+#head{
+ height: 150px;
+ width:930px;
+ background-color: green;
+ margin-bottom:10px;
+}
+#sidebar{
+ height: 300px;
+ width: 200px;
+ background-color: blue;
+ vertical-align:top;
+ display:inline-block;
+}
+#maintext{
+ height: 400px;
+ width:675px;
+ background-color: red;
+ padding:15px;
+ display:inline-block;
+ margin-left:20px;
+ margin-right:10px;
+}
+.subtext1{
+ height: 200px;
+ width: 210px;
+ background-color: yellow;
+ display:inline-block;
+ margin-right:10px;
+ margin-bottom:15px;
+}
+#mainfoot{
+ height: 120px;
+ width: 660px;
+ background-color: purple;
+
+}
